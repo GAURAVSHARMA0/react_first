@@ -1,0 +1,39 @@
+.Person {
+    width: 60%;
+    margin: auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+}
+
+.button_left{
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #337ab7;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    padding: 10px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-right: 12px;                                                                                                                                                                                                                                                                                                                                      
+    border: none;
+    cursor: pointer;
+    transition: all 0.4s ease 0s;
+    text-align:center;
+
+}
+
+.button_right{
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #ede030;
+    margin-right: 12px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 4px;
+    display: inline-block;
+    border: none;
+    text-align:center;
+    transition: all 0.4s ease 0s;
+}
